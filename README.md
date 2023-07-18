@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/vinay961/vinay961/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Vinay Rai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
