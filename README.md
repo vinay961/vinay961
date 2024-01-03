@@ -6,15 +6,15 @@
 
 ###
 
+<img align="right" height="200" src="https://wallpapercave.com/wp/wp6350578.jpg"  />
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">✨ Graduation (2021-2025)<br>📚 I'm currently learning React.Js<br>🎯 Goals: Becoming a Software Developer<br>🎲 Working on learning management System.</p>
-
-###
-
-<img align="right" height="200" src="https://wallpapercave.com/wp/wp6350578.jpg"  />
 
 ###
 
@@ -53,6 +53,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay961&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=vinay961&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vinay961/count.svg?"  />
 </div>
 
 ###
