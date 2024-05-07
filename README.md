@@ -1,6 +1,4 @@
 <h1> <img src="https://github.com/vinay961/vinay961/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png" /> </h1>
-[![An image of @getlost01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/getlost01)](https://holopin.io/@getlost01)
-
 <h2 align="center">Hi 👋, I'm Vinay Rai</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
