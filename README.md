@@ -6,7 +6,7 @@
       </a>
     </td>
     <td>
-      [![GitHub Streak](https://streak-stats.demolab.com/?user=vinay961theme=dark)](https://git.io/streak-stats)
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vinay961" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
